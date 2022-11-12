@@ -171,6 +171,7 @@ table {
 /*For side style*/
 
 .flex-container {
+    padding: 5px;
     margin: 5%;
     font-family: Georgia, serif;
     color: rgb(13, 13, 64);
