@@ -10,9 +10,7 @@
 }
 
 #menu {
-    background-image: url("toq.jpg");
-    background-attachment: fixed;
-    background-size: cover;
+    background-color: rgb(192,223,239);
 }
 
 table {
