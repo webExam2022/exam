@@ -49,9 +49,16 @@ table {
 }
 
 .img2 {
-    margin: 3%;
+    margin: 2% auto;
     width: 70%;
     display: block;
+}
+/* Accessibility page*/
+
+.acc {
+    text-align: center;
+    font-size: larger;
+    margin: 5%;
 }
 
 
