@@ -285,6 +285,7 @@ table {
 
 @media (max-width: 680px) {
     .navbar {
+        position: relative;
         display: grid;
     }
     .img1 {
